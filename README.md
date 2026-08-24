@@ -1,5 +1,5 @@
 HR Analytics Dashboard using Power BI
-📊 Project Overview
+Project Overview
 
 This project is an interactive HR Analytics Dashboard developed using Microsoft Power BI to analyze employee data and identify important HR trends and patterns.
 
@@ -7,7 +7,7 @@ The dashboard is created using 1,480 employee records and provides insights into
 
 The main objective of this project is to transform raw HR data into meaningful and interactive visual insights that can help HR teams and management make data-driven decisions.
 
-🛠️ Tools & Technologies Used
+Tools & Technologies Used
 Microsoft Power BI
 Power Query
 Microsoft Excel
@@ -18,7 +18,7 @@ Charts
 Slicers
 Dashboard Design
 
-🔄 Project Workflow
+Project Workflow
 
 The project was completed through the following steps:
 
@@ -39,6 +39,7 @@ Renaming columns where required
 Formatting numerical fields
 Checking duplicate records
 Preparing data for visualization
+
 3. Dashboard Design
 
 A professional HR Analytics Dashboard was designed in Power BI with a clean and interactive layout.
@@ -53,6 +54,7 @@ Daily Rate
 Hourly Rate
 Monthly Income
 Job Satisfaction
+
 5. Data Visualization
 
 Different charts were created to analyze employee data from multiple perspectives.
@@ -61,35 +63,35 @@ Different charts were created to analyze employee data from multiple perspective
 
 Interactive slicers were added to allow users to filter and explore the dashboard based on departments and other available categories.
 
-📈 Dashboard Visuals
+7. Dashboard Visuals
 
 The dashboard contains the following major visualizations:
 
-Attrition by Department
+Attrition by Department:-
 
 A donut chart showing employee attrition distribution across different departments.
 
-Attrition by Salary Slab
+Attrition by Salary Slab:-
 
 A bar chart analyzing employee attrition according to different salary ranges.
 
-Age Group Distribution
+Age Group Distribution:-
 
 A column chart showing the distribution of employees across different age groups.
 
-Attrition by Gender
+Attrition by Gender:-
 
 A donut chart showing employee attrition based on gender.
 
-Attrition Trend by Experience
+Attrition Trend by Experience:-
 
 A line chart showing the relationship between employee attrition and years of experience.
 
-Department-wise Employee Count
+Department-wise Employee Count:-
 
 A bar chart displaying the number of employees in each department.
 
-🎯 Key KPIs
+Key KPIs
 
 The dashboard provides a quick overview of important HR metrics:
 
@@ -100,7 +102,8 @@ Daily Rate	Employee daily rate analysis
 Hourly Rate	Employee hourly rate analysis
 Monthly Income	Employee monthly income analysis
 Job Satisfaction	Employee job satisfaction indicator
-📊 Key Insights
+
+Key Insights
 
 The dashboard can be used to identify:
 
@@ -112,67 +115,16 @@ Relationship between experience and attrition
 Department-wise employee strength
 Overall workforce distribution
 Important HR trends and patterns
-🧹 Data Preparation
 
-Power Query was used extensively for data transformation and preparation before building the dashboard.
+8. Recommendations
+Target High-Risk Turnover Segments: Implement targeted retention and engagement initiatives for departments or job roles exhibiting elevated attrition rates.
 
-The general data preparation workflow was:
+Optimize Compensation & Promotion Cycles: Review salary benchmarks and promotion timelines for mid-level employees to mitigate career-stagnation turnover.
 
-Raw Data → Power Query → Data Cleaning → Data Transformation → Data Model → Visualizations → Dashboard
+9. Impact
+Enhanced Workforce Planning: Improves visibility into headcount metrics, department distributions, and performance tiers to streamline talent allocation.
 
-🎨 Dashboard Features
-Interactive KPI cards
-Department slicer
-Attrition analysis
-Salary slab analysis
-Age group analysis
-Gender analysis
-Experience trend analysis
-Department-wise employee count
-Interactive Power BI visuals
-Professional dashboard layout
-🖼️ Dashboard Preview
+Optimized HR Spending: Reduces recruitment and re-hiring costs by targeting interventions directly at vulnerable employee cohorts.
 
-📁 Project Files
-Dashboard/
 
-Contains the Power BI .pbix dashboard file.
 
-Dataset/
-
-Contains the HR dataset used for the analysis.
-
-Screenshots/
-
-Contains dashboard screenshots and previews.
-
-Documentation/
-
-Contains additional project documentation.
-
-🚀 How to Use This Project
-Download the .pbix file.
-Open it using Microsoft Power BI Desktop.
-Check the data source if the dataset path has changed.
-Refresh the data if required.
-Use the slicers and visuals to interact with the dashboard.
-Explore HR analytics and employee attrition insights.
-💡 Learning Outcomes
-
-Through this project, I gained practical experience in:
-
-Power BI dashboard development
-Power Query data cleaning
-Data transformation
-Data visualization
-KPI development
-Interactive dashboard design
-HR analytics
-Attrition analysis
-Business data analysis
-Presenting data-driven insights
-👨‍💻 Project Type
-
-Data Analytics | Business Intelligence | HR Analytics | Power BI
-
-📌 Conclusion
